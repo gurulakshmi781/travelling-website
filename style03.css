@@ -1,0 +1,68 @@
+.bus-content
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    color: aqua;
+
+}
+nav a
+{
+    text-decoration:none;
+    font-size: 15px;
+    color: crimson;
+}
+.form-login
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    margin: 0%;
+    color: blueviolet;
+    background-color:yellow;
+}
+.join-k
+{
+    background-color: black;
+    height:40vh;
+    color: white;
+    background-image: url('https://d3h2k7ug3o5pb3.cloudfront.net/image/2020-12-03/92071030-3559-11eb-918f-7f7b011be452.jpg');
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+}
+.guru
+{
+    background-image: url('https://i.gifer.com/embedded/download/I5Wi.gif');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+.contact-page
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+    margin: 0%;
+    background-color: aqua;
+    color: chocolate;
+    font-style: italic;
+}
+.about-page
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 150vh;
+    margin: 0%;
+    background-color:cadetblue;
+    color:chartreuse;
+    font-style:oblique;
+    margin-top: 30px;
+}
